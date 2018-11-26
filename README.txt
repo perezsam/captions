@@ -1,0 +1,2 @@
+- Waveform working
+- Script and loading errors

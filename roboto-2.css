@@ -1,0 +1,22 @@
+<style>
+        .exp-invert-logo #header:before, .exp-invert-logo .ypc-join-family-header .logo, .exp-invert-logo #footer-logo .footer-logo-icon, .exp-invert-logo #yt-masthead #logo-container .logo, .exp-invert-logo #masthead #logo-container, .exp-invert-logo .admin-masthead-logo a, .exp-invert-logo #yt-sidebar-styleguide-logo #logo {
+            background: no-repeat url(/yts/img/ringo/hitchhiker/logo_small_2x-vfl4_cFqn.png);
+            background-size: 100px 30px;
+        }
+
+        .exp-invert-logo #yt-masthead #logo-container .logo-red {
+            background: no-repeat url(/yts/img/ringo/hitchhiker/logo_youtube_red_2x-vflOSHA_n.png);
+            background-size: 132px 30px;
+        }
+
+        @media only screen and (min-width: 0px) and (max-width: 498px), only screen and (min-width: 499px) and (max-width: 704px) {
+            .exp-invert-logo.exp-responsive #yt-masthead #logo-container {
+                background: no-repeat url(/yts/img/ringo/hitchhiker/yt_play_logo_2x-vflXx5Pg3.png);
+                background-size: 40px 28px;
+            }
+        }
+
+        .guide-sort-container {
+            display: none;
+        }
+    </style>
